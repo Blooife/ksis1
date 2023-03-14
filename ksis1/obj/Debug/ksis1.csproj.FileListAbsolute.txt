@@ -1,0 +1,7 @@
+C:\Users\Asus\RiderProjects\ksis1\ksis1\bin\Debug\ksis1.exe
+C:\Users\Asus\RiderProjects\ksis1\ksis1\bin\Debug\ksis1.pdb
+C:\Users\Asus\RiderProjects\ksis1\ksis1\obj\Debug\ksis1.csproj.AssemblyReference.cache
+C:\Users\Asus\RiderProjects\ksis1\ksis1\obj\Debug\ksis1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\RiderProjects\ksis1\ksis1\obj\Debug\ksis1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\RiderProjects\ksis1\ksis1\obj\Debug\ksis1.exe
+C:\Users\Asus\RiderProjects\ksis1\ksis1\obj\Debug\ksis1.pdb
